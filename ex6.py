@@ -12,3 +12,4 @@ if word == reverse:
 
 else:
     print("This word is not a palindrome")
+
