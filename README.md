@@ -1,5 +1,5 @@
-# practice_python_exercises
-This is the code I used to solve the practicepython.org exercises
+# Practice Python Exercises
+This is the code I used to solve the exercises from: [practicepython.org] (practicepython.org)
 
 ## Exercise 1 - Character Input
 Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
